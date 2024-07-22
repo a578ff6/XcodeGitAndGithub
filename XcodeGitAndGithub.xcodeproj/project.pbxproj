@@ -17,6 +17,7 @@
 		9376060E2C4E8C3E00B1316C /* TestRest1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376060D2C4E8C3E00B1316C /* TestRest1.swift */; };
 		937606142C4E9E4A00B1316C /* TestRest2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937606132C4E9E4A00B1316C /* TestRest2.swift */; };
 		937606162C4EA81400B1316C /* TestRest3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937606152C4EA81400B1316C /* TestRest3.swift */; };
+		937606182C4EACD400B1316C /* TestRest4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937606172C4EACD400B1316C /* TestRest4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		9376060D2C4E8C3E00B1316C /* TestRest1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRest1.swift; sourceTree = "<group>"; };
 		937606132C4E9E4A00B1316C /* TestRest2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRest2.swift; sourceTree = "<group>"; };
 		937606152C4EA81400B1316C /* TestRest3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRest3.swift; sourceTree = "<group>"; };
+		937606172C4EACD400B1316C /* TestRest4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRest4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				937605FB2C4E2FE200B1316C /* Main.storyboard */,
 				9376060B2C4E84F700B1316C /* TestGit.swift */,
 				9376060D2C4E8C3E00B1316C /* TestRest1.swift */,
+				937606172C4EACD400B1316C /* TestRest4.swift */,
 				937606132C4E9E4A00B1316C /* TestRest2.swift */,
 				937606152C4EA81400B1316C /* TestRest3.swift */,
 				937605FE2C4E2FE300B1316C /* Assets.xcassets */,
@@ -154,6 +157,7 @@
 				937605FA2C4E2FE200B1316C /* ViewController.swift in Sources */,
 				9376060E2C4E8C3E00B1316C /* TestRest1.swift in Sources */,
 				937605F62C4E2FE200B1316C /* AppDelegate.swift in Sources */,
+				937606182C4EACD400B1316C /* TestRest4.swift in Sources */,
 				937606142C4E9E4A00B1316C /* TestRest2.swift in Sources */,
 				937605F82C4E2FE200B1316C /* SceneDelegate.swift in Sources */,
 				937606162C4EA81400B1316C /* TestRest3.swift in Sources */,
