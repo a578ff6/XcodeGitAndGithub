@@ -1,0 +1,23 @@
+# Ignore Xcode workspace user data
+*.xcuserstate
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Xcode project files
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcodeproj
+DerivedData/
+build/
+
+# Ignore logs
+*.log
+
+# Ignore Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+
