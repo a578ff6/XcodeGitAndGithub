@@ -15,6 +15,7 @@
 		937606022C4E2FE300B1316C /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 937606012C4E2FE300B1316C /* Base */; };
 		9376060C2C4E84F700B1316C /* TestGit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376060B2C4E84F700B1316C /* TestGit.swift */; };
 		9376060E2C4E8C3E00B1316C /* TestRest1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376060D2C4E8C3E00B1316C /* TestRest1.swift */; };
+		937606142C4E9E4A00B1316C /* TestRest2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937606132C4E9E4A00B1316C /* TestRest2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		937606032C4E2FE300B1316C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9376060B2C4E84F700B1316C /* TestGit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TestGit.swift; path = ../../../../.Trash/XcodeGitAndGithub/XcodeGitAndGithub/TestGit.swift; sourceTree = "<group>"; };
 		9376060D2C4E8C3E00B1316C /* TestRest1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRest1.swift; sourceTree = "<group>"; };
+		937606132C4E9E4A00B1316C /* TestRest2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRest2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				937605FB2C4E2FE200B1316C /* Main.storyboard */,
 				9376060B2C4E84F700B1316C /* TestGit.swift */,
 				9376060D2C4E8C3E00B1316C /* TestRest1.swift */,
+				937606132C4E9E4A00B1316C /* TestRest2.swift */,
 				937605FE2C4E2FE300B1316C /* Assets.xcassets */,
 				937606002C4E2FE300B1316C /* LaunchScreen.storyboard */,
 				937606032C4E2FE300B1316C /* Info.plist */,
@@ -148,6 +151,7 @@
 				937605FA2C4E2FE200B1316C /* ViewController.swift in Sources */,
 				9376060E2C4E8C3E00B1316C /* TestRest1.swift in Sources */,
 				937605F62C4E2FE200B1316C /* AppDelegate.swift in Sources */,
+				937606142C4E9E4A00B1316C /* TestRest2.swift in Sources */,
 				937605F82C4E2FE200B1316C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
